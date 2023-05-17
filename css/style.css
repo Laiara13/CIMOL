@@ -1,0 +1,239 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+   
+}
+
+#header{
+    width: 100%;
+    height: 10vh;
+    background-color: #1E3D68;
+    display: flex;
+    position: relative;   
+    margin-top: 4vh;
+}
+
+#links_head {
+    width: 100vw;
+    background-color: #1E3D68;
+    display: inline-flex;
+   
+}
+
+#img{
+    width: 7vw;
+    height: 15vh;
+    position: absolute;
+    margin-left: 1vw;
+    top: -2vh;
+}
+
+#CIMOL{
+    color:#ffffff;
+    font-size: 3vw;
+    display: flex;
+    align-self: center;
+    margin-left: 10.5vw;
+}
+
+.textos_header{
+    font-size: 1.5vw;
+    margin-left: 4vw;
+    align-self: center;
+    font-weight:500;
+}
+
+.link_head{
+    text-decoration: none;
+    color: #ffffff;/* são links*/
+}
+
+.Tec{
+ 
+   font-size: 3vw;
+   text-align: center;
+   font-weight:500;
+   margin-top: 1vh;
+}
+
+#ft_escola{
+    width: 100%;
+    margin-bottom: 5vh;
+
+}
+#name_cursos{
+    font-size: 3vw;
+    margin-bottom: 2vh;
+}
+.fundospt1{
+
+    position: absolute;
+    background-color: #1E3D68;
+    width: 2vw;
+    height: 22vh;
+    display: inline-flex;
+    margin-left: 2vw;
+    margin-top: 7vh;
+    align-items: center;
+    
+    
+}
+
+.fundospt2{
+
+    position: absolute;
+    background-color: #1E3D68;
+    width: 2vw;
+    height: 22vh;
+    display: inline-flex;
+    margin-left: 2vw;
+    margin-top: 45vh;
+    align-items: center;
+}
+
+.fundos_lado{
+    float: left;
+    margin-right: 10vw;
+}
+
+
+#elo {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 1vw;
+    position: absolute;
+}
+
+#eletro {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 26vw;
+    position: absolute;
+}
+
+.mov {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 51vw;
+    position: absolute;
+}
+
+.mec {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 75vw;
+    position: absolute;
+}
+
+#design {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 1vw;
+    position: absolute;
+}
+
+#quim {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 26vw;
+    position: absolute;
+}
+
+.info {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 51vw;
+    position: absolute;
+}
+
+.mab {
+    background-color: #1E3D68;
+    display: flex;
+    margin-left: 75vw;
+    position: absolute;
+}
+
+
+/* Noticias*/
+
+#noticias{
+    height: 76vh;
+}
+
+#not {
+    width: 10vw;
+    font-size: 3vw;
+    margin-top: 79vh;
+}
+
+#fundo_noticias{
+    width: 100%;
+    height: 70vh;
+
+}
+
+/* Fooster*/
+
+#fooster{
+    width: 100%;
+    height: 37vh;
+    background-color: #636363;
+
+}
+
+#Obs {
+    width: 5vw;
+    margin-left: 5vw;
+    display: inline-grid;
+    font-size: 2.6vh;
+    color: #ffffff;
+}
+
+#fooster_cimol {
+    width: 25vw;
+    font-size: 2.6vh;
+    display: inline-flex;
+    margin-left: -3vw;
+    color: #ffffff;
+}
+
+#menu_cimol {
+    width: 16vw;
+    margin-left: 8vw;
+    font-size: 2.6vh;
+    display: inline-grid;
+    text-decoration: none;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+    color: #ffffff;
+}
+
+#end_cimol {
+    width: 27vw;
+    font-size: 2.6vh;
+   
+    margin-left: 8vw;
+    display: inline-grid;
+    text-decoration: none;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+    color: #ffffff;
+}
+#face {
+    margin-left: 12vw;
+    margin-bottom: 3vh;
+}
+#a{
+    width: 100%; /* Apagar dps*/
+}
+
+
+#copyright{
+    text-align: right;
+    font-size: 1.1vw;
+    color: #ffffff;
+    margin-right: 0.4vw;
+}
